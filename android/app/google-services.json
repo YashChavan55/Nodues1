@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505870318023",
+    "project_id": "nodues1",
+    "storage_bucket": "nodues1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505870318023:android:0f05502e98bb79878d01e2",
+        "android_client_info": {
+          "package_name": "com.example.no_dues1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DhTGbymRTCUy1Pj8vB66Apq2wqKc_Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
